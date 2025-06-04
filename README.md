@@ -3,7 +3,7 @@
 -->
 # Andrey aqui, sou estudande de Analise e Desenvolvimento de Sistemas
 
-Estou atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul. Recentemente, decidi fazer uma transição de carreira para a área de tecnologia, após alguns anos trabalhando em serviços braçais que exigiam pouco conhecimento técnico. Estou animado para aplicar meus conhecimentos e enfrentar desafios no campo da programação e desenvolvimento de sistemas. Minha experiência anterior como Agente Educacional me ensinou a importância do trabalho em equipe, organização e comunicação eficiente. Durante meu tempo lá, fui responsável por mediar questões ambientais e de higiene, organizar a distribuição de alimentação escolar e acompanhar estudantes em atividades extracurriculares. Essas responsabilidades desenvolveram minhas habilidades de liderança, resolução de problemas e gerenciamento de tempo.
+Estou atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade FAPI - Cruzeiro do Sul. Recentemente, decidi fazer uma transição de carreira para a área de tecnologia, após alguns anos trabalhando em serviços braçais que exigiam pouco conhecimento técnico. Estou animado para aplicar meus conhecimentos e enfrentar desafios no campo da programação e desenvolvimento de sistemas. Minha experiência anterior com Robótica na escola Maria Cappellri me ensinou a importância do trabalho em equipe, organização e comunicação eficiente. Durante meu tempo lá, fui responsável por organizar e planejar aulas de robótica. Essas responsabilidades desenvolveram minhas habilidades de liderança, resolução de problemas e gerenciamento de tempo.
 contado pelo email andreyrvdev@gmail.com
 
 ---
@@ -31,7 +31,7 @@ contado pelo email andreyrvdev@gmail.com
 
  -->
 
- [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/pt/) | [![PHP]( https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) |   [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/) |  [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) |
+ [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)](https://dart.dev/) | [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/) | [![PHP]( https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) |   [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/) |  [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) |
 | :---: | :---: |:---: |:---: |:---: |
 
 <!--
