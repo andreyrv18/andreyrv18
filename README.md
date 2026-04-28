@@ -10,8 +10,8 @@ contado pelo email andreyrvdev@gmail.com
 
 ## Meus interesses
 
-- :books: Acesse os livros que estou lendo [aqui](https://www.skoob.com.br/usuario/9674399)
-- :notes: Eu adoro música! eu sempre encontro algo que me agrada e me anima. Sertanejo, EDM... eu ouço de tudo um pouco e me divirto.
+<!-- :books: Acesse os livros que estou lendo [aqui](https://www.skoob.com.br/usuario/9674399) 
+- :notes: Música! eu sempre encontro algo que me agrada e me anima. Sertanejo, EDM... eu ouço de tudo um pouco e me divirto. -->
 - :hourglass_flowing_sand: Meus hobbies atualmente são caminhada
 - :page_with_curl: Veja Meu [Currículo](https://andreyrvs.github.io/) para mais informações.
 <!--
@@ -31,8 +31,16 @@ contado pelo email andreyrvdev@gmail.com
 
  -->
 
- [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)](https://dart.dev/) | [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/) |  [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/) |   [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/) |  [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)   | [![PHP]( https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-| :---: | :---: |:---: |:---: |:---: | :---: |
+| [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)](https://dart.dev/) | [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/) | [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) | [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) |
+| :---: | :---: | :---: | :---: |
+
+
+
+### Frameworks de Programação 
+
+| [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/) |  [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/) | 
+| :---: | :---: |
+
 
 <!--
 ### Ferramentas
