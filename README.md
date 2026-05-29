@@ -56,7 +56,7 @@ contado pelo email andreyrvdev@gmail.com
 -->
 ---
 
-| [![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyrv18&layout=compact&theme=dracula&hide_border=True&line_height=20&PAT_1)](https://github.com/anuraghazra/github-readme-stats) | [![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreyrv18&layout=compact&theme=dracula&show_icons=true&hide_border=True&line_height=20&PAT_1)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Github Top Langs](https://github-readme-stats-seven-sandy-95.vercel.app/api/top-langs/?username=Andreyrv18&layout=compact&theme=dracula&hide_border=True&line_height=20&PAT_1)](https://github.com/anuraghazra/github-readme-stats) | [![Andrey's GitHub stats](https://github-readme-stats-seven-sandy-95.vercel.app/api?username=Andreyrv18&layout=compact&theme=dracula&show_icons=true&hide_border=True&line_height=20&PAT_1)](https://github.com/anuraghazra/github-readme-stats) |
 | ----------- | ----------- |
 |  ![Profile Views](https://komarev.com/ghpvc/?username=Andreyrv18&style=for-the-badge&color=037B7B) | > caso os status não apareçam, recarregue a página!
 <!-- 
