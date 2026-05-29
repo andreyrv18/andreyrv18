@@ -66,5 +66,5 @@ contado pelo email andreyrvdev@gmail.com
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andreyrv18&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreyrvs&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 Readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats ":grin:") 
 -->
-
+[![Gist Card](https://github-readme-stats-seven-sandy-95.vercel.app/api/gist?id=15306eaa9c5a561ee4ec2810bcd98287)](https://gist.github.com/Andreyrv18/15306eaa9c5a561ee4ec2810bcd98287/)
 
