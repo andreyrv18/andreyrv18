@@ -56,7 +56,7 @@ contado pelo email andreyrvdev@gmail.com
 -->
 ---
 
-| [![Github Top Langs](https://github-readme-stats-seven-sandy-95.vercel.app/api/top-langs/?username=Andreyrv18&layout=compact&theme=dracula&hide_border=True&line_height=20&locale=pt-br&PAT_1)](https://github.com/anuraghazra/github-readme-stats) | [![Andrey's GitHub stats](https://github-readme-stats-seven-sandy-95.vercel.app/api?username=Andreyrv18&layout=compact&theme=dracula&show_icons=true&locale=pt-br&hide_border=True&line_height=20&PAT_1)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Github Top Langs](https://github-readme-stats-seven-sandy-95.vercel.app/api/top-langs/?username=Andreyrv18&layout=compact&theme=dracula&hide_border=True&line_height=20&locale=pt-br&PAT_1)](https://github.com/anuraghazra/github-readme-stats) | [![Andrey's GitHub stats](https://github-readme-stats-seven-sandy-95.vercel.app/api?username=Andreyrv18&layout=compact&show_icons=true&locale=pt-br&include_all_commits=true&PAT_1)](https://github.com/anuraghazra/github-readme-stats) |
 | ----------- | ----------- |
 |  ![Profile Views](https://komarev.com/ghpvc/?username=Andreyrv18&style=for-the-badge&color=037B7B) | > caso os status não apareçam, recarregue a página!
 <!-- 
@@ -67,5 +67,3 @@ contado pelo email andreyrvdev@gmail.com
 Readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats ":grin:") 
 -->
 [![Gist Card](https://github-readme-stats-seven-sandy-95.vercel.app/api/gist?id=15306eaa9c5a561ee4ec2810bcd98287)](https://gist.github.com/Andreyrv18/15306eaa9c5a561ee4ec2810bcd98287/)
-
-[![Include all](https://github-readme-stats-seven-sandy-95.vercel.app/api?username=Andreyrv18&include_all_commits=true)](https://github-readme-stats-seven-sandy-95.vercel.app/api?username=Andreyrv18&include_all_commits=true)
