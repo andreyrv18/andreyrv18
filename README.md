@@ -68,3 +68,4 @@ Readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats
 -->
 [![Gist Card](https://github-readme-stats-seven-sandy-95.vercel.app/api/gist?id=15306eaa9c5a561ee4ec2810bcd98287)](https://gist.github.com/Andreyrv18/15306eaa9c5a561ee4ec2810bcd98287/)
 
+[![Include all](https://github-readme-stats-seven-sandy-95.vercel.app/api?username=Andreyrv18&include_all_commits=true)](https://github-readme-stats-seven-sandy-95.vercel.app/api?username=Andreyrv18&include_all_commits=true)
